@@ -8,4 +8,4 @@ The model, when applied to SAR images leads to a severe loss of information. The
 ![2](Images/2.png)<br/>
 ![3](Images/3.png)<br/>
 ![4](Images/4.png)<br/>
-![model](Images/despeckle model.png)<br/>
+![model](Images/despeckle_model.png)<br/>
